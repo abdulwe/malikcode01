@@ -2,6 +2,15 @@
    float: none;
    text-align: center; 
 }
+.test-primary{display: block;
+    padding-bottom: 30px;
+    
+    color: #f7c08a;
+}
+.lead{
+    padding-top: 30px;
+}
+
 #navbar ul, #nav ul li{
     float: none;
     text-align: center;
