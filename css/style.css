@@ -15,6 +15,9 @@ h1, h2, h3{
     padding-bottom: 20px;
     
 }
+h1{
+    color: #111010;
+}
 p{
     margin: 10px 0;
 }
@@ -29,6 +32,7 @@ p{
 }
 .lead{
     font-size: 20px;
+    
 }
 .btn{
     display: inline-block;
